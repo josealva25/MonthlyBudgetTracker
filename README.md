@@ -9,5 +9,3 @@ A simple tool for keeping track of your monthly expenses and staying within budg
 
 ## Usage
 The program will prompt you to enter your budget and then allow you to add expenses. The expenses will be saved to the `budget.csv` file. The program will keep track of your current spending and notify you if you are exceeding your budget. You can view a summary of your expenses at any time by typing `summary`.
-
-Example usage:
