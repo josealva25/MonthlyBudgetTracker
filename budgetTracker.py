@@ -1,7 +1,6 @@
 import csv
 import datetime
 import smtplib
-import nexmo
  
 expenses = []
 #Replace the 'bank.csv' with your own csv file from your bank
